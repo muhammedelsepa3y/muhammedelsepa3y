@@ -16,6 +16,16 @@
 ## About Me
 - 🎓 Final year student at Cairo University, Faculty of Computer Science.
 - 💻 Passionate about Flutter and backend development with Django.
+- 🔍 Proficient in identifying and solving complex problems efficiently.
+- 🧠 Experienced in implementing advanced algorithms to optimize software solutions.
+- 💻 Skilled in Dart, C++, Python, and Java for versatile software development.
+- 🗃️ Knowledgeable about various database systems and their application in software projects.
+- 🔄 Proficient in using Git for efficient collaboration and version control in team projects.
+- 🛠️ Familiar with Solid Principles, Design Patterns, and Clean Architecture to ensure a robust and maintainable codebase.
+- 🛠️ Experienced in using project management tools such as Trello, Jira, ClickUp, Slack, and Asana for effective team collaboration and project organization.
+- ⚙️ Proficient in low-code platforms like Bubble, Flutterflow, and OutSystems.
+- 🔄 Expertise in continuous integration and continuous deployment (CI/CD) practices.
+
 
 ## Interests
 I'm fascinated by the world of mobile app development, particularly with Flutter, and enjoy diving into the complexities of backend systems using Django. Constantly seeking opportunities to expand my knowledge and skills in these areas.
