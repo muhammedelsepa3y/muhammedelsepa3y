@@ -1,9 +1,7 @@
 
-# Hi there, I'm Mohamed Elsebaey! 👋   <div id="badges">
-  <a href="https://www.linkedin.com/in/mohamed-elsebaey-b43062242/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+# Hi there, I'm Mohamed Elsebaey! 👋
+
+<a href="https://www.linkedin.com/in/mohamed-elsebaey-b43062242/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammedelsepa3y&hide=stars&count_private=true&show_icons=true&&include_all_commits=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedelsepa3y&layout=donut&theme=dark)
