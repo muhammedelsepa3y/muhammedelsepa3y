@@ -13,8 +13,6 @@
 ## About Me
 - 🎓 Final year student at Cairo University, Faculty of Computer Science.
 - 💻 Passionate about Flutter and backend development with Django.
-  
-## My CV
 - [View my CV](https://docs.google.com/document/d/1_trMyVJBwuGp2Ug2LgkeeTSo4KEXMi5zVKI9N8ov_Jo/edit?usp=sharing)
 
 ---
