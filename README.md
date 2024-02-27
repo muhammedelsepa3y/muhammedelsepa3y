@@ -29,14 +29,23 @@
 ---
 
 ## Interests
-I'm fascinated by the world of mobile app development, particularly with Flutter, and enjoy diving into the complexities of backend systems using Django. Constantly seeking opportunities to expand my knowledge and skills in these areas.
+- 📱 Fascinated by mobile app development, particularly with Flutter.
+- 💻 Enjoy diving into the complexities of backend systems using Django.
+- 🔍 Constantly seeking opportunities to expand knowledge and skills in app development.
 
 ---
 
 ## Summary
-
-**Experienced Flutter developer and instructor** adept in Dart fundamentals, advanced Flutter concepts, and API integration. Proficient in Firebase services, state management, and Hive database. Skilled in frontend and backend development with C#, ASP.NET MVC, and JavaScript. Recognized for developing high-performance mobile apps and leading student activities. Strong foundation in object-oriented programming principles and Flutter fundamentals. Versatile in workshop facilitation and project management, showcasing expertise in Flutter widgets and state management techniques. Notable achievements include developing e-commerce and educational apps. Actively contribute to student organizations and projects, demonstrating leadership and organizational skills. Consistent track record of success in internships and workshops. Passionate about creating stunning and interactive mobile applications.
-
+- 🚀 Experienced Flutter developer adept in Dart fundamentals and advanced concepts.
+- 🔧 Proficient in Firebase services, state management, and Hive database.
+- 💼 Skilled in frontend and backend development with C#, ASP.NET MVC, and JavaScript.
+- 🏆 Recognized for developing high-performance mobile apps and leading student activities.
+- 🧠 Strong foundation in object-oriented programming principles and Flutter fundamentals.
+- 🎨 Versatile in workshop facilitation and project management, showcasing expertise in Flutter widgets and state management techniques.
+- 📚 Notable achievements include developing e-commerce and educational apps.
+- 🤝 Actively contribute to student organizations and projects, demonstrating leadership and organizational skills.
+- ✅ Consistent track record of success in internships and workshops.
+- 💡 Passionate about creating stunning and interactive mobile applications.
 
 
 
