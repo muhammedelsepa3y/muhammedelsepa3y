@@ -7,8 +7,7 @@
 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammedelsepa3y&hide=stars&count_private=true&show_icons=true&&include_all_commits=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedelsepa3y&layout=donut&theme=dark)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedelsepa3y&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedelsepa3y&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedelsepa3y&theme=tokyonight" alt="mystreak"/>
 <img src="https://myreadme.vercel.app/api/embed/muhammedelsepa3y?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 ---
