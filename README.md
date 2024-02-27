@@ -1,5 +1,5 @@
 
-# Hi there, I'm Mohamed Elsebaey! 👋
+# Hi there, I'm Mohamed Elsebaey! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 <a href="https://www.linkedin.com/in/mohamed-elsebaey-b43062242/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <img src="https://komarev.com/ghpvc/?username=muhammedelsepa3y&color=brightgreen" alt="watching_count" />
