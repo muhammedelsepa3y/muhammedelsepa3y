@@ -10,6 +10,9 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammedelsepa3y&hide=stars&count_private=true&show_icons=true&&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedelsepa3y&layout=donut)
+
 ## About Me
 - 🎓 Final year student at Cairo University, Faculty of Computer Science.
 - 💻 Passionate about Flutter and backend development with Django.
@@ -24,8 +27,7 @@ I'm fascinated by the world of mobile app development, particularly with Flutter
 - HTML/CSS
 - JavaScript
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammedelsepa3y&hide=stars&count_private=true&show_icons=true&&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedelsepa3y&layout=donut)
+
 
 
 
