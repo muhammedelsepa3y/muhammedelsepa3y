@@ -8,7 +8,7 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammedelsepa3y&hide=stars&count_private=true&show_icons=true&&include_all_commits=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedelsepa3y&layout=donut&theme=dark)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=muhammedelsepa3y&theme=dark)](https://git.io/streak-stats)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=muhammedelsepa3y.muhammedelsepa3y)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=muhammedelsepa3y)
 ---
 
 ## About Me
