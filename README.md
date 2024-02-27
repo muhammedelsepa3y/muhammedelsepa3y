@@ -2,11 +2,11 @@
 # Hi there, I'm Mohamed Elsebaey! 👋
 
 <a href="https://www.linkedin.com/in/mohamed-elsebaey-b43062242/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<img src="https://komarev.com/ghpvc/?username=muhammedelsepa3y&color=brightgreen" alt="watching_count" />
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammedelsepa3y&hide=stars&count_private=true&show_icons=true&&include_all_commits=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedelsepa3y&layout=donut&theme=dark)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=muhammedelsepa3y&theme=dark)](https://git.io/streak-stats)
-<img src="https://komarev.com/ghpvc/?username=muhammedelsepa3y&color=brightgreen" alt="watching_count" />
 ---
 
 ## About Me
