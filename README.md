@@ -14,7 +14,7 @@
 ---
 
 ## About Me
-- 🎓 Final year student at Cairo University, Faculty of Computer Science.
+- 🎓 Graduate of Cairo University, Faculty of Computer Science and Artificial Intelligence, with a “Very Good” grade.
 - 💻 Passionate about Flutter and backend development with Django.
 - [View my CV](https://docs.google.com/document/d/1_trMyVJBwuGp2Ug2LgkeeTSo4KEXMi5zVKI9N8ov_Jo/edit?usp=sharing)
 
